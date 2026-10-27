@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "userName": "emberKnight",
+      "itemName": "Emberfang Blade",
+      "itemImage": "https://placehold.co/600x400/png?text=Emberfang+Blade",
+      "rarity": "Epic",
+      "category": "Weapon",
+      "description": "A sword forged in volcanic fire. Its glowing edge leaves sparks with every swing.",
+      "isAvailable": true,
+      "tradeFor": "Frostguard Shield"
+    }
+        {
+      "id": 2,
+      "userName": "frostWarden",
+      "itemName": "Frostguard Shield",
+      "itemImage": "https://placehold.co/600x400/png?text=Frostguard+Shield",
+      "rarity": "Rare",
+      "category": "Armor",
+      "description": "A sturdy shield rimmed with enchanted ice that glows in cold weather.",
+      "isAvailable": true,
+      "tradeFor": "Emberfang Blade"
+    },
+    {
+      "id": 3,
+      "userName": "moonlitRanger",
+      "itemName": "Moontrail Bow",
+      "itemImage": "https://placehold.co/600x400/png?text=Moontrail+Bow",
+      "rarity": "Epic",
+      "category": "Weapon",
+      "description": "A lightweight bow said to guide its arrows toward the brightest moonlight.",
+      "isAvailable": true,
+      "tradeFor": "A rare staff"
+    },
+    {
+      "id": 4,
+      "userName": "stoneSmith",
+      "itemName": "Runestone Amulet",
+      "itemImage": "https://placehold.co/600x400/png?text=Runestone+Amulet",
+      "rarity": "Uncommon",
+      "category": "Accessory",
+      "description": "A carved stone charm etched with old runes and a faint silver shimmer.",
+      "isAvailable": true,
+      "tradeFor": "A crafting hammer"
+    },
+    {
+      "id": 5,
+      "userName": "cloudFox",
+      "itemName": "Cloudstep Boots",
+      "itemImage": "https://placehold.co/600x400/png?text=Cloudstep+Boots",
+      "rarity": "Rare",
+      "category": "Armor",
+      "description": "Soft boots with feathered soles, made for quick and quiet movement.",
+      "isAvailable": false,
+      "tradeFor": "A rare accessory"
+    },
+    {
+      "id": 6,
+      "userName": "verdantMage",
+      "itemName": "Verdant Spellbook",
+      "itemImage": "https://placehold.co/600x400/png?text=Verdant+Spellbook",
+      "rarity": "Legendary",
+      "category": "Magic Item",
+      "description": "A living book whose pages fill with green-gold writing near ancient forests.",
+      "isAvailable": true,
+      "tradeFor": "A legendary item"
+    }
+  ]
+}
