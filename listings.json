@@ -15,7 +15,7 @@
       "id": 2,
       "userName": "frostWarden",
       "itemName": "Frostguard Shield",
-      "itemImage": "https://placehold.co/600x400/png?text=Frostguard+Shield",
+      "itemImage": "https://github.com/hdsn211/items/blob/main/frost.jpg",
       "rarity": "Rare",
       "category": "Armor",
       "description": "A sturdy shield rimmed with enchanted ice that glows in cold weather.",
